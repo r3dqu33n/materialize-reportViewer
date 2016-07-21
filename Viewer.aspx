@@ -149,7 +149,7 @@
     </form>
     <footer class="page-footer blue lighten-1">
         <div class="footer-copyright">
-            <span>Copyright © 2016 <a class="grey-text text-lighten-4" href="#" target="_blank">dotOne</a> All rights reserved.</span>
+            <span>Copyright © 2016 <a class="grey-text text-lighten-4" href="#" target="_blank">Bla bla bla</a> All rights reserved.</span>
         </div>
     </footer>
 
