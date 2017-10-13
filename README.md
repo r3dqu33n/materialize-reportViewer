@@ -10,4 +10,3 @@ This project was born as a result of several failed attempts to find some exampl
 
 *Remark 2: This project has somewhat like a sort of hacks to the component and is using MaterializeCSS, but can be "easily" adapted to any kind of UI.*
 
-*Remark 3: This is my first attempt of contribution to the open source community. Please don't hit me if you don't like this :D.*
