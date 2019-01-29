@@ -9,4 +9,3 @@ This project was born as a result of several failed attempts to find some exampl
 **I'd like to remark the point that this repo is still empty, as this is a work still in progress. **
 
 *Remark 2: This project has somewhat like a sort of hacks to the component and is using MaterializeCSS, but can be "easily" adapted to any kind of UI.*
-
